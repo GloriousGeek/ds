@@ -10,7 +10,7 @@ This repository showcases my work in developing predictive models, starting with
 
 Here’s what you’ll find inside:
 
-- **[Soil Data Regression Model](./soil_regression)**
+- **[Soil Data Regression Model](./regression)**
   - **Goal**: Predict a target variable based on soil features.
   - **Techniques**: Linear Regression, polynomial regression models of degree 3 and 9, Feature Engineering, Cross-Validation.
   - **Data**: Includes soil properties like fraction of transpirable soil water, and measure of relative leaf growth.
